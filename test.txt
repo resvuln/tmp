@@ -1,0 +1,1 @@
+SharedAccessSignature sr=https%3A%2F%2Fmyapi.azure-api.net&sig=abc123def456ghi789jkl012mno345pqr678stu901vwx234yz
