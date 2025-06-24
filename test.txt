@@ -1,0 +1,1 @@
+Endpoint=sb://analytics-hub.servicebus.windows.net/;SharedAccessKeyName=SendPolicy;SharedAccessKey=VGhpc0lzQVNlY3JldEtleUZvckV2ZW50SHViQ29ubmVjdGlvbjEyMzQ1Ng==
