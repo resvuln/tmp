@@ -1,0 +1,1 @@
+azure-sql-pass="Complex#Pass123$Azure"
