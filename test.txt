@@ -1,0 +1,1 @@
+azure-iot-hub-connection: SharedAccessKey=cGFzc3dvcmRmb3JhenVyZWlvdGh1YmFjY2Vzc2tleXRlc3Q=
