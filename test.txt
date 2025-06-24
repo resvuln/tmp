@@ -1,0 +1,1 @@
+{"type":"service_account","project_id":"prod-app-567890","private_key_id":"f7e8d9c0b1a2345678901234567890123456789e","client_email":"deployment-bot@prod-app-567890.iam.gserviceaccount.com","client_id":"123456789012345678901","auth_uri":"https://accounts.google.com/o/oauth2/auth"}
