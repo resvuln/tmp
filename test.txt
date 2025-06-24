@@ -1,0 +1,1 @@
+Endpoint=sb://8uV-eG.servicebus.windows.net/;SharedAccessKeyName=aIALME0uClDGRmpyV0XuLevwZcq9ckLx10raTZG0vMgKuFO6PgShBBjTUH8TMz8iVj2PG9H2QESCO0bidW0BZJi3;SharedAccessKey=hhGcC6ea47l0j2CUE34ZHMXgdmVPFIA48CALJUMq+8Lzu7Kw+oz8HQCIEhy8Q4F6Fag71MRg10bhpnncqn9NGm
