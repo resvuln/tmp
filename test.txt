@@ -1,0 +1,1 @@
+HostName=t4-iemDIrh0.azure-devices.net;SharedAccessKeyName=dC7qo2jhxbWvqpH9l3Za7miQ6jnMfD4RZorcKa9EiSWeQIN;SharedAccessKey=lULrtZk0HYJwr6BXSBZrCuJOsuSY2TyHw8sWfW2PW
