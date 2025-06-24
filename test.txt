@@ -1,0 +1,1 @@
+SharedAccessKey=QWERTYuiop1234567890+/ASDFGHjkl567890+/ZXCVBNqwerty==;EntityPath=my-relay-connection
