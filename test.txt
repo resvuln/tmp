@@ -1,0 +1,1 @@
+connectionString=AccountEndpoint=https://test.documents.azure.com:443/;AccountKey=mN8pQ5rS2tU7vW0xY3zA6bC9dE2fG5hI8jK1lM4nO7pQ0rS3tU6vW9xY2zA5bC8dE1fG4hI7jK0lM3nO6pQ9r==;
