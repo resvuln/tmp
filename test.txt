@@ -1,0 +1,1 @@
+sqlpassword: MyS3cur3AzureP@ss
