@@ -1,0 +1,1 @@
+AccountEndpoint=https://production-cosmos.documents.azure.com:443/;AccountKey=pK7Q8w9r2t5v8y/B?E(H+MbQeThWmZq4t7w!z%C&F)J@NcRfTjWnZr4u7x!A%D*G-KaPdSgVkYp3s6v9y$B?E(H+Mb==;
