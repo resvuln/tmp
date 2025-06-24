@@ -1,0 +1,1 @@
+apikey_localstack=nLskmovmIoZuE4lJO3pTxqJvhs5hoS7XkzuXyIgz
