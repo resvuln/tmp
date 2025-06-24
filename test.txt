@@ -1,0 +1,1 @@
+IOT_HUB_KEY=SharedAccessKey=bXlzdXBlcnNlY3JldGF6dXJlaW90aHViYWNjZXNza2V5MTIz
