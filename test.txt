@@ -1,0 +1,1 @@
+{"type": "service_account", "project_id": "production-app-456", "private_key_id": "9f8e7d6c5b4a39281726354950413829384756ab", "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDHvx8nKlM\n-----END PRIVATE KEY-----\n", "client_email": "automation-bot@production-app-456.iam.gserviceaccount.com"}
