@@ -1,0 +1,1 @@
+{"type": "service_account", "project_id": "web-app-staging", "private_key_id": "1a2b3c4d5e6f7890abcdef1234567890abcdef12", "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC5N8m2K1p9q7r8\n-----END PRIVATE KEY-----\n", "client_email": "webapp-service@web-app-staging.iam.gserviceaccount.com", "client_id": "456789123456789123456"}
