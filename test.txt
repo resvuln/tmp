@@ -1,0 +1,1 @@
+Endpoint=sb://company-events.servicebus.windows.net/;SharedAccessKeyName=SendPolicy;SharedAccessKey=VGhpc0lzQW5vdGhlckZha2VBenVyZUV2ZW50SHViS2V5Rm9yVGVzdGluZ1B1cnBvc2VzT25seTIwMjRTZWNyZXQ=
