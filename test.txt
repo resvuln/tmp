@@ -1,0 +1,1 @@
+Endpoint=sb://Ie8.servicebus.windows.net/;SharedAccessKeyName=cbZut9gyIOYAnACw7mmf1fEFSpqcFZFcAMz7aNW0VhpERGyEd2oIBrv7uPfDXs0BuxdKXO5NZkEodD1oFmi9P;SharedAccessKey=k4tLpSWVBUjeDGoz3XJotV9elM9eLdmZn4cMZ5W0904pbmLhEF/HU5l8k1AfR8BXeU8sVfGCFhHB7oCbKsGPktcb==
