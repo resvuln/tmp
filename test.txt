@@ -1,0 +1,1 @@
+sb://azure-relay-hub.servicebus.windows.net/myconnection?sr=https%3A%2F%2Fazure-relay-hub.servicebus.windows.net%2Fmyconnection&sig=bCdEfGhIjKlMnOpQrStUvWxYz1A4%3D&se=1640995200
