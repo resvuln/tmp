@@ -1,0 +1,1 @@
+Endpoint=sb://2QUpl.servicebus.windows.net/;SharedAccessKeyName=V2JRW0Lq5gQ502Yb3L7UCWOX5kwkqweyb1pQM4D2Dcf0a39sBzG2DZGE4UI8ezqAKVPfYLW8L51VZ9y4KBnF5iY8ckwG40tXfzIJd2KhjOoQ1FvYuZQk9oHGGl2xSpHeVne;SharedAccessKey=zPaMBM608e+uzqJF+Fjn991e5E9Un5E2ltaFdaGOo32=
