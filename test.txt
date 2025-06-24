@@ -1,0 +1,1 @@
+azure-iot.device-key':	"' :	fSnmGb3CVCZPMYRC6KesWHUFwcT8w8G0
