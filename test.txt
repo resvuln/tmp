@@ -1,0 +1,1 @@
+HostName=0TKy6tZi4.4x.azure-devices.net;DeviceId=MGicLD0Lo2lC7PVhgMgCjKbSxJylEOkiQIC0VVIqNZF4kaqwFzZsJ-qSGdL6agZL1hqIdWRGVw-652Av8kIhEImZPCPhKGajs1qsalUY-XQavimDsdMQIPfo58BbsTmzTnJzB2oiLtrAtAfM;SharedAccessKey=MjMEVOIGGyjwQyg3Ac+OlRPoDO5fyTKE8XO3+BAyzaor==
