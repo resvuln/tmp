@@ -1,0 +1,1 @@
+Endpoint=sb://bbaEZGR.servicebus.windows.net/;SharedAccessKeyName=jryQGeKpRf5iukEUVFjxBe1RwSjyCZFuUGfJwNKlyxJPV8TJvmrogZ23rHxLpE7gJ530HcFJ9RG2xdhtlUlB1VBYD7tGUJenFIy1mJJoOg1KAZehQQa6ECE1QV1Shq5O7;SharedAccessKey=ZE9EcxO4ctPKtT4nujeTBcTP+NdtQ3EmKirRby7E0Rw=
