@@ -1,0 +1,1 @@
+arn:aws:cognito-idp:tljwzx7bs4o48lqcc8gdj10l7gzg86hymrmor4mmnnk9q04o7gdp8yxf5oze09ajnhidiv0yj2nh8nv9t5nqhgei8bsyxzw06-u88o83tm4u-gcqk6d7e7fwcs:413080424710:userpool/8z2d-hhepkzj6pv8ky-ah5lg835-et4uj0w6q9atvho9mm6a_mirJvXdn/client/hct1uepvet4q5gj84v21ao2smj
