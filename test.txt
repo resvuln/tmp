@@ -1,0 +1,1 @@
+localstackapi_key	=6TvCuUMmKXSE9D2lq2qge8WlI3OyQKTRihDJBNv
