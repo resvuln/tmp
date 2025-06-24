@@ -1,0 +1,1 @@
+storage_account_key=XyZ9876543210abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/example+test==
