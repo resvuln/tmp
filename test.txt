@@ -1,0 +1,1 @@
+SharedAccessKey=M5nB8vC1xZ4aS7dF0gH3jK6lP9qW2eR5tY8uI1oP4aS7dF0gH3jK6lP9qW2eR5tY8u=;EntityPath=my-relay-connection
