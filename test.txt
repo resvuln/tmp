@@ -1,0 +1,1 @@
+Endpoint=sb://RDf.servicebus.windows.net/;SharedAccessKeyName=XVovtDjEsajE1BoSrJlfE;SharedAccessKey=tU/Xd58gyvSg/J4FF2ndlcwwkExP7xDHXXdyxcLA3f9wRMh7QJXk0qhcog1a5G2Opacq7
