@@ -1,0 +1,1 @@
+Endpoint=sb://pDC-s4QOKJBrdm.servicebus.windows.net/;SharedAccessKeyName=bTs69V0p2v8UCnC9evuP2mxFzr9dW3MTnkXSHRKZXa3ZQMwONWE2wwmEiZlJYBBjc5NMi5JHwuEMsxVzdcvIiguribuGpmxme5tAbchxeXMVN22I5cTKg25ia;SharedAccessKey=+RoMm/7toWdWNHtuQu5Sm9uNLUQvU1BSx2NRmm349TH=
