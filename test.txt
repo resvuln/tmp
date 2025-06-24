@@ -1,0 +1,1 @@
+mergify.key=mfg7x9k2p8q3w5e1r6t4y7u0i2o9a3s8
