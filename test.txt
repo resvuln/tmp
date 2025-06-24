@@ -1,0 +1,1 @@
+{"project_id": "ml-training-env", "private_key_id": "abcd1234567890efgh1234567890ijkl12345678", "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDGtJTUt9Us8cKB\nxQQw0QmGmvEvqPaTpQhLz8cKBxQQw0QmGmvEvqPaTpQhLz8\n-----END PRIVATE KEY-----\n", "client_email": "ml-compute@ml-training-env.iam.gserviceaccount.com", "type": "service_account"}
