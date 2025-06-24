@@ -1,0 +1,1 @@
+HostName=3caexlppart0hmewpeq6aim-aynkd.azure-devices.net;DeviceId=yhjRuJHOBqlkZcXI3jEpABeOMI5XpNQjRRSDOzKDMowEUnb4Us3StCEYW2WSWilB7fe2j-VCEvO6JMJHi7TbrNWSs1b4T7exPs3xHFllei-SFvZzFh6uehjQQpo;SharedAccessKey=836kiM3LsA39zDNjZyteOx53Kxwenq+t3bafmo9N+5zvKVyF=
