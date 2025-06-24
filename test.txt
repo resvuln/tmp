@@ -1,0 +1,1 @@
+sb://app-queue.servicebus.windows.net/orders;SharedAccessKeyName=DefaultFullSharedAccessSignature;SharedAccessKey=bXlzdXBlcnNlY3JldGtleWZvcmF6dXJlc2VydmljZWJ1c2FwaWFjY2Vzczk4NzY1NDMyMTEyMzQ1Njc4OTBhYg==
