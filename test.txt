@@ -1,0 +1,1 @@
+sb://test-azure-relay.servicebus.windows.net/;SharedAccessKeyName=DefaultKey;SharedAccessKey=X6yZ8aB0cD2eF4gH6iJ8kL0mN2oP4qR6sT8uV0wX2yZ4aB6cD8eF0gH2iJ4kL6mN8oP0qR2sT4uV6wX8yZ0aB2cD4eF6gH8iJ==
