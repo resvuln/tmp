@@ -1,0 +1,1 @@
+primaryKey: "MyAzureIoTDeviceSecretKeyForAuthentication123456789ABCDEF="
