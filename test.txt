@@ -1,0 +1,1 @@
+aws_session_token=	 	: =2iIZTm9sf7xmepMO/kY28Eds+z/eTfK32Q4Sz4NUk1/oGR2z823g4HOPqHr3+/RDtyj58mu26zqYqpu/Czj8+RSGoTqPvpFpmL5cZ/0pxBkMd5vTQmATqMmYUjCqphBHNsp5UCl53m/4FnRJC+oEOChN1ugAvTsGQr/J7WAYOFq5D0HoFp1hi/ON8TzrQHl0kckFG2HB7lDvpLA9od937syQDxCstd=
