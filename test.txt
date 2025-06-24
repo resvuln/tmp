@@ -1,0 +1,1 @@
+azure_iot_device_key: Zm1ucXBzdHV2d3h5ejAxMjM0NTY3ODkwYWJjZGVmZ2hpams=
