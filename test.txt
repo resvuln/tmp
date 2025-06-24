@@ -1,0 +1,8 @@
+{
+  "type": "service_account",
+  "project_id": "prod-app-789",
+  "private_key_id": "abcdef1234567890abcdef1234567890abcdef12",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCvxvzPJqYbGH2Q\n-----END PRIVATE KEY-----\n",
+  "client_email": "deploy-bot@prod-app-789.iam.gserviceaccount.com",
+  "client_id": "555666777888999000111"
+}
