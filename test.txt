@@ -1,0 +1,1 @@
+checkout-prod-secret_key =	:mc7fsR4kWaGUj6XJDSqsx52kBQaeIEImvm12CqeQYeV9dnS
