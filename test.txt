@@ -1,0 +1,1 @@
+cosmosdb_key=aGVsbG93b3JsZHRoaXNpc2FmYWtlYXp1cmVjb3Ntb3NkYmtleWZvcnNlY3VyaXR5dGVzdGluZ3B1cnBvc2Vz
