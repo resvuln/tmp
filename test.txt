@@ -1,0 +1,1 @@
+HostName=d1k73inebgozewag-m5c-zt4hdgea89be.azure-devices.net;DeviceId=n9bar3WTCsS4PaxQNrxwgPMXfeDtz8Ohwcv6wUKyhl9JZR3V12Alu2TfxwmPMaS9OTlcFUMae6mgNC;SharedAccessKey=mdl4l+Iw5+s6f2SqkM8zcbkqCI8RWxHg+9B91gDjzKkoj6CAyOl1bJ/HLiWFD3nqUySrThNVlK9w6Hz35Ksiwc3==
