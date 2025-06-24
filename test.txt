@@ -1,0 +1,8 @@
+{
+  "type": "service_account",
+  "project_id": "backend-services",
+  "private_key_id": "0123456789abcdef0123456789abcdef01234567",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC8uV3m\n-----END PRIVATE KEY-----\n",
+  "client_email": "deployment@backend-services.iam.gserviceaccount.com",
+  "client_id": "456789012345678901234"
+}
