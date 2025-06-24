@@ -1,0 +1,1 @@
+localstackapi-key=	: :: 	= 	l26YDOQewZtnkrjwCCfDx9EzNUjNAjs2YM
