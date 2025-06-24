@@ -1,0 +1,1 @@
+SharedAccessKey=pQrStUvWxYz1A4bCdEfGhIjKlMnOpQrStUvWxYz2A5bCdEfGhI=;EntityPath=my-hybrid-connection
