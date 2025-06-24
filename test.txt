@@ -1,0 +1,1 @@
+Endpoint=sb://testing-relay.servicebus.windows.net/;SharedAccessKeyName=Listen;SharedAccessKey=hI6jK4lM2nO0pQ8rS6tU4vW2xY0zA8bC6dE4fG2hI0jK8lM6nO4pQ2rS0tU8vW6xY4zA2bC0dE8fG6=
