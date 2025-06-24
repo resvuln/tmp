@@ -1,0 +1,1 @@
+SharedAccessKeyName=ybkOu;SharedAccessKey=xcgKeTfwRVcXHvJioRFT5i1WaubqW2VPy1ihrF+zstLZAUuM35YhlNVHvXsLB8UKAKGNzDNuXyg5FP17sgKnaBZLiIkz4u4JqV==;Endpoint=sb://ZUrFJWZr9M0pKaItEekdur7AHXWiHR0DB8YDSoxhJr6E-ZTL36hQF8TyK5UOxeyPS1ZIWeSGUV.servicebus.windows.net/
