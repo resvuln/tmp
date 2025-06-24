@@ -1,0 +1,1 @@
+aws_session_token=                                STU1SZb66++ks9fyG3c8kcFScIj/9FC4WxzgEN0hTJpcQly53pTjiZEr82bmBeqtSJY/RBIhZ2QTXVwRKgli0hnpKdvR7s0HVygWZN6Y4+FFscwYguido28keL46UYrdrxghlTB6sKjfoOS6KKiyRpU8lpfTmMVOtLjgRJFBHvCg0ei6HCqDTxKi3P2TD+hhqbgsJ+pBT34y
