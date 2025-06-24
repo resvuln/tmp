@@ -1,0 +1,1 @@
+mergify app key=R8tY5uI2oP7aS4dF1gH6jK9lM3nQ0wE7rT
