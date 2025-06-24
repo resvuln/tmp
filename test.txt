@@ -1,0 +1,1 @@
+localstack_api-key=:KQrPG84T3Yb3LLxJ5UV6uVB1eLC8eIInJfLn1uS
