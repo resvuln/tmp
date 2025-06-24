@@ -1,0 +1,1 @@
+SharedAccessKeyName=device;SharedAccessKey=bXlzdXBlcnNlY3JldGtleWZvcmF6dXJlaW90aHViZXhhbXBsZQ==
