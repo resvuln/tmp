@@ -1,0 +1,1 @@
+acrToken456/containerRegistry+accessKey/encoded/value/with/special/chars==
