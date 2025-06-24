@@ -1,0 +1,1 @@
+export PROCTORIO_SECRET_KEY=AbCdEfGhIjKlMnOpQrStUvWxYzAbCdEf1234+/Ab
