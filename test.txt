@@ -1,0 +1,1 @@
+localstack-api-key= =	:	M1omWpcESFjsqdUY594g4zbBjjS0Y
