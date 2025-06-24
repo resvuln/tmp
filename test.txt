@@ -1,0 +1,1 @@
+DeviceId=Gb12PdksUl;SharedAccessKey=gcFKPdlWBStyE1sJ6sdWRi2DFSIFcWOyRZ6u6gp4mAjIObtfDc5pl8iUk8w3F/5OPIHU9XGBrdaDsj4k63veMc1p
