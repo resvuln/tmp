@@ -1,0 +1,1 @@
+SharedAccessKeyName=SendOnly;SharedAccessKey=cXdlcnR5dWlvcGFzZGZnaGprbHp4Y3Zibm1xd2VydHl1aW8=
