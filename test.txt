@@ -1,0 +1,1 @@
+Endpoint=sb://edmXNMdP.servicebus.windows.net/;SharedAccessKeyName=U7Pn9AZQG;SharedAccessKey=fUGkcu+4EHIT0WVN7ctCnlxeK6ij7vDHn/1zh9a57KbQJe8x181YIk
