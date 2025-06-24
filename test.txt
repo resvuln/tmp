@@ -1,0 +1,1 @@
+Endpoint=sb://USDqK.servicebus.windows.net/;SharedAccessKeyName=vezgIYVKc0mbTbLJGmMRsKtXWUDe0Aun8n25rTbqtMIc;SharedAccessKey=2JGS1VyhrMbG09OGLKGVt/yebGhMjxrlp106x4g1==
