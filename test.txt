@@ -1,0 +1,1 @@
+hapikey=3974836d65e3ceaea9ec9efca9dbce17
