@@ -1,0 +1,1 @@
+azureContainerRegistry789+encoded/access/token/for/authentication/purposes/here==
