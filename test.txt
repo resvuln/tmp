@@ -1,0 +1,1 @@
+sb://enterprise-messaging.servicebus.windows.net/myqueue;SharedAccessKeyName=FullAccess;SharedAccessKey=ZyX98765WvU43210TsR21098QpO65432NmL10987KjI54321HgF==
