@@ -1,0 +1,1 @@
+Endpoint=sb://mycompany-prod.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=XkJm9fHzPqL2wR8vBnN3cM5xT7yU4iO6pA1sD9gF2hJ5kL8mN0qR3tY6zA9bC2eF
