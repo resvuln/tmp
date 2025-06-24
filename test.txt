@@ -1,0 +1,1 @@
+MERCURY_PRODUCTION_API_TOKEN =	mp_xf8404bde7wt4ivno8upbupph1uy9nkw0gr
