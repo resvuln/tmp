@@ -1,0 +1,1 @@
+EVENTHUB_CONNECTION_STRING=Endpoint=sb://production-hub.servicebus.windows.net/;SharedAccessKeyName=SendPolicy;SharedAccessKey=P9sV2yE5hK8nQ1tY4zC7fI0mP3sV6yB9eH2kN5qT8wZ1cF4iL7oR0uX3aG6jM9pS2v
