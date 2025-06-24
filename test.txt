@@ -1,0 +1,8 @@
+{
+  "type": "service_account",
+  "project_id": "dev-environment-001",
+  "private_key_id": "9f8e7d6c5b4a39281756483920174658394072ab",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDX2Y5K\n-----END PRIVATE KEY-----\n",
+  "client_email": "data-processor@dev-environment-001.iam.gserviceaccount.com",
+  "client_id": "456789012345678901234"
+}
