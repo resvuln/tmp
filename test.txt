@@ -1,0 +1,1 @@
+HostName=production-iot.azure-devices.net;DeviceId=sensor-temp-01;SharedAccessKey=bXlzZWNyZXRrZXlmb3Jhenl1cmVpb3RodWIxMjM0NTY3ODk=
