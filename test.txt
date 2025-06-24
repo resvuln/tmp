@@ -1,0 +1,1 @@
+scalr.api.token=mK8nL2oP6qR4sT7uV9wX3yZ5aB
