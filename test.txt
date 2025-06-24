@@ -1,0 +1,1 @@
+AccountEndpoint=https://myaccount.documents.azure.com:443/;AccountKey=dGVzdEtleUZvckNvc21vc0RiQWNjb3VudEtleUV4YW1wbGVTdHJpbmdGb3JUZXN0aW5nUHVycG9zZXM4ODg=
