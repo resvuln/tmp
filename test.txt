@@ -1,0 +1,1 @@
+arn:aws:iam::311244474271:oidc-provider/UnI1S6P_cGZdGuOXq7MRrrdx8SwtGmmF9Bn2hlC3f3N9G.6JJC
