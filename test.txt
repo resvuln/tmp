@@ -1,0 +1,1 @@
+azure-iot-hub-connection-string: dGVzdGtleWZvcmF6dXJlaW90aHViZXhhbXBsZWxvbmdlcmtleXRoYXRpc2Jhc2U2NGVuY29kZWRmb3JhdXRoZW50aWNhdGlvbg==
