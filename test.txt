@@ -1,0 +1,1 @@
+secret_key="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"
