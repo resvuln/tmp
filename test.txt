@@ -1,0 +1,1 @@
+Endpoint=sb://myrelay-namespace.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=Sb8KjH9mP2xQ7vR4wT6yU1oI3eN5gF8aD0cV9bX2zM4hL7sA5k=
