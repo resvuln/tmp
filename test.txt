@@ -1,0 +1,1 @@
+HostName=factory-devices.azure-devices.net;DeviceId=gateway-device-05;SharedAccessKey=QXp1cmVJb1RIdWJTaGFyZWRBY2Nlc3NLZXlFeGFtcGxl
