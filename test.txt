@@ -1,0 +1,1 @@
+"client_email": "service-worker@analytics-platform-xyz.iam.gserviceaccount.com", "client_id": "987654321098765432109", "auth_uri": "https://accounts.google.com/o/oauth2/auth", "token_uri": "https://oauth2.googleapis.com/token"
