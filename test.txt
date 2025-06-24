@@ -1,0 +1,1 @@
+AzureIoTDPSKey=UHJvZHVjdGlvbkF6dXJlSW9UREVWaWNlUHJvdmlzaW9uaW5nU2VydmljZUtleUZvckRldmljZUNvbm5lY3Rpb25UZXN0
