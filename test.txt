@@ -1,0 +1,1 @@
+SharedAccessKeyName=iothubowner;SharedAccessKey=M4nB7vC1xZ5eR8tY2uI6oP9aS3dF0gH2jK5lZ8xC4vB7nM1wQ6eR==
