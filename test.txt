@@ -1,0 +1,1 @@
+acrloginserver.azurecr.io:user=admin;password=Zx9Cv8Bn7Mm6Ll5Kk4Jj3Ii2Hh1Gg0Ff9Ee8Dd7Cc6Bb5Aa4+/==
