@@ -1,0 +1,1 @@
+LOCALSTACK_API_KEY		 	==PrrxQSPvHs99lTRvgh5xZGp6xupDSkuJ80nH/kgr4bZcsoPEe/
