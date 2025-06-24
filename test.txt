@@ -1,0 +1,1 @@
+amzn1.oauth.client.secret.abcd1234567890efghijklmnopqrstuvwxyz
