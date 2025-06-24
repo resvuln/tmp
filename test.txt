@@ -1,0 +1,1 @@
+registry.azurecr.io/admin/password:Kj8nM2pL9qR5sT7vX3zA1bC4dE6fG8hI0jK2lM4nO6pQ8rS0tU2vW4xY6zA8bC0dE2fG4hI6jK8lM0nO2pQ4rS6tU8vW
