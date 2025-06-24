@@ -1,0 +1,1 @@
+localstack.api.key="lsf7g8h9j2k3l4m5n6p7q8r9s0t1u2v3"
