@@ -1,0 +1,1 @@
+HostName=myiothub.azure-devices.net;DeviceId=temperature-monitor;SharedAccessKey=bXlzZWNyZXRrZXlmb3JhenVyZWlvdGRldmljZWNvbm5lY3Rpb25zdHJpbmc=
