@@ -1,0 +1,1 @@
+localstackapikey:=: AzGA3GJH3tOMHuQUuDpzXdoqDusEqJXhERDstP
