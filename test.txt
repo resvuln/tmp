@@ -1,0 +1,1 @@
+proctorio-secret-key = M8nP1qR4sT7uV0wX3yZ6aB9cD2eF5gH8
