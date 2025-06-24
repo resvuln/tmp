@@ -1,0 +1,1 @@
+Endpoint=sb://XR.servicebus.windows.net/;SharedAccessKeyName=qyfk8Dm3G0WAr415hh5JYbEYLwSpF0C9dBESi4dxuxs3EJwDF5LDCF9Dt;SharedAccessKey=5y1oUuCbjl3Aj9m6sMQkzz43drDBcLVuXNg+SSiQxasX
