@@ -1,0 +1,1 @@
+Endpoint=sb://z9WhyhlNo0TGYO9-WKUWXvUVJLd-4FNg7mkoJ.servicebus.windows.net/;SharedAccessKeyName=D9BM4hSphCV;SharedAccessKey=5sDlERYDSFhCjnPGLhpCn91aWRyestIJj/AFCWLuCw8FBIOxf46tEeDRl4aU=
