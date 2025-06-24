@@ -1,0 +1,1 @@
+{"type": "service_account", "project_id": "prod-analytics-2023", "private_key_id": "1a2b3c4d5e6f7890abcdef1234567890fedcba09", "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDL+8xvZ\n-----END PRIVATE KEY-----\n", "client_email": "automation-bot@prod-analytics-2023.iam.gserviceaccount.com", "client_id": "987654321098765432109"}
