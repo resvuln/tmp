@@ -1,0 +1,1 @@
+HostName=EW-5dIkrS.azure-devices.net;DeviceId=hm1xoRg7RIgT-IY5ItPs1vJtak7Xw9ipC5e6c2OPCijL_jT6uvy6v8Ia3gd_YPxPe58uJz2dtCJBi_6CRVbMl7B2hD3GYVFIuQP1-ZhSGZOm6ABU1W8bdfxFP1aR1sJJwDy6IAX-yfIvJ1gmq;SharedAccessKey=yEtkTH1ShmKNXZOW++W9osv1p+u49oHeO3QJTvm/2R1l==
