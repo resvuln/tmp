@@ -1,0 +1,1 @@
+{"type": "service_account", "project_id": "analytics-platform", "private_key_id": "abcdef1234567890abcdef1234567890abcdef12", "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC8vWxY\n-----END PRIVATE KEY-----\n", "client_email": "data-processor@analytics-platform.iam.gserviceaccount.com", "client_id": "987654321098765432109"}
