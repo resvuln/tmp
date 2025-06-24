@@ -1,0 +1,1 @@
+sb://company-relay-prod.servicebus.windows.net/hybridconnection/?sb://myapp&SharedAccessKey=dGhpc2lzYW5vdGhlcnRlc3RrZXlmb3JhenVyZXJlbGF5c2VydmljZWFiY2RlZmdoaWprbG1ub3A=
