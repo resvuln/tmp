@@ -1,0 +1,1 @@
+mergify_application_key = "A7f9K2mN8pQ1sT4uW6xZ0bC3eF5gH7jL"
