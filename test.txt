@@ -1,0 +1,1 @@
+Endpoint=sb://production-events.servicebus.windows.net/;SharedAccessKeyName=SendListen;SharedAccessKey=mK7pN1qS4uW8zA3dG7kL0oR4tY8bE2hJ6lP0sV4yC8fI2mQ6tX0aD4gK8nR2uY6bF0jM4qT8wE2rY6uI0oP4aSdF8h=
