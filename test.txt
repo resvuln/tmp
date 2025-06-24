@@ -1,0 +1,1 @@
+Endpoint=sb://company-relay.servicebus.windows.net/;SharedAccessKeyName=SendKey;SharedAccessKey=P9uI8oY7tR6eW3qA2sD5fG4hJ1kL0zX8cV9bN6mQ3wE7rT2yU5iO4pA1sD8fG7hJ0kL3zX6cV2bN9mQ=
