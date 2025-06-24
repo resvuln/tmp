@@ -1,0 +1,1 @@
+sb://test-eventhub-ns.servicebus.windows.net/;EntityPath=myeventhub;SharedAccessKey=mN9pQ2tV5yX8aB1eH4kL7oR0sU3vZ6cF9iM2pS5wA8dG1jN4qT7xB0eH3lO6rU9yC2fI5mP8sV1zA4dG7jM0pS3v
