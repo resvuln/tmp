@@ -1,0 +1,1 @@
+LOCALSTACK_API_KEY					=== b3a3a8eae919c913f9ef858ee96bbd1f
