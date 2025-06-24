@@ -1,0 +1,1 @@
+SharedAccessKeyName=Y5RF-H4xHj5SL3tC1l0pcNoml_VlEBBZP4VlvAwmxtnyzqUL9rJMV49crqF9KwbFIHf53sedvUkRehNB3nZGScqV2IJtNqP4NMIO-RnPezfsBh9WC_28t0_eoSuLymqa6b;SharedAccessKey=/TTP3qNuUXks/kfrpGbfF==;Endpoint=sb://Uhf8-uX3RIi7t9KJTfFpqxbmFn.servicebus.windows.net/
