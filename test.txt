@@ -1,0 +1,1 @@
+Endpoint=sb://prod-eventhub-ns.servicebus.windows.net/;SharedAccessKeyName=SendPolicy;SharedAccessKey=cHJvZHVjdGlvbmV2ZW50aHVia2V5Zm9yYWNjZXNzaW5nZXZlbnRodWJzZXJ2aWNlY3JvZHVjdGlvbmV2ZW50aHVia2V5Zm9yYWNjZXNzaW5nZXZlbnRodWJzZXJ2aWNlYw==
