@@ -1,0 +1,1 @@
+localstack-key: lsk3m4n5p6q7r8s9t0u1v2w3x4y5z6a7
