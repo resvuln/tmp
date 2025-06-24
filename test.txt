@@ -1,0 +1,1 @@
+AZURE_IOT_CONNECTION_STRING=HostName=test-hub.azure-devices.net;DeviceId=sensor001;SharedAccessKey=VGhpc0lzQVZlcnlTZWN1cmVLZXlGb3JJb1REZXZpY2VBdXRo
