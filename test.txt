@@ -1,0 +1,1 @@
+MERGIFY_APPLICATION_KEY:VGhpc0lzQU1lcmdpZnlBcHBsaWNhdGlvbktleUZvclRlc3Q=
