@@ -1,0 +1,1 @@
+HostName=myhub.azure-devices.net;DeviceId=device001;SharedAccessKey=dGVzdGtleWZvcmF6dXJlaW90aHViZXhhbXBsZTE=
