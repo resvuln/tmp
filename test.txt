@@ -1,0 +1,1 @@
+Endpoint=sb://prod-relay-hub.servicebus.windows.net/;SharedAccessKeyName=SendOnly;SharedAccessKey=9mK7nL5pQ3rS1tU9vW7xY5zA3bC1dE9fG7hI5jK3lM1nO9pQ7rS5=
