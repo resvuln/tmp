@@ -1,0 +1,1 @@
+wakatime_refresh_token=aBcD3fGhI9jKlMnOpQrStUvWxYz012345678901234567890
