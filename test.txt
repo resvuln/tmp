@@ -1,0 +1,1 @@
+Endpoint=sb://RVGBl2o.servicebus.windows.net/;SharedAccessKeyName=b1VhvJuBCosD8bQsAPFs0NTMMlZJvA9XPQDzJMsCZ8eY3;SharedAccessKey=d9g/fNgGWM3FC1oulK7iGdBE1yBBumYRq1AdbdrxqS/sGQyj7VO
