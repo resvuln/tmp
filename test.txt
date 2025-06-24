@@ -1,0 +1,1 @@
+storage_account_key: Ab3CdEfGhIjKlMnOpQrStUvWxYz0123456789+/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmn==
