@@ -1,0 +1,1 @@
+EventHubConnectionString: sb://prod-events.servicebus.windows.net/;SharedAccessKey=bXlzdXBlcnNlY3JldGtleWZvcmV2ZW50aHViY29ubmVjdGlvbjEyMzQ1Njc4OTBhYmNkZWZnaGk=
