@@ -1,0 +1,1 @@
+HostName=pGd-pE92Hom7U8I925bDyM8WyXTc5.azure-devices.net;DeviceId=XZ9wd8RlPC3Gy6fWz3Pegkg1aak1AOEnAYerec-ODYVnX99qFXiWLjS1dmd3wutu-q07iGrRfw8l7cwF9YsqN8jJZzyeTXoDtI4Notpi92VNJybvAGrHALGHo6RmlH;SharedAccessKey=COHLApmkBo3kketPUBENaaR9ux+PiOsVI8Ig1n1+XT3h==
