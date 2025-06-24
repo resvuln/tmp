@@ -1,0 +1,1 @@
+testcontainers.azurecr.io:M9n8B7vC4xZ2kL5pQ3wR6yT1uI0oA8sD5fG2hJ9cV7bN4zM6kX3pW1eT8qR0yU5i
