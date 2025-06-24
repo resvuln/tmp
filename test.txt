@@ -1,0 +1,1 @@
+SharedAccessKeyName=ProcessorKey;SharedAccessKey=dGhpc2lzYXRlc3RrZXlmb3JhenVyZXNlcnZpY2VidXM=;Endpoint=sb://event-processor.servicebus.windows.net/
