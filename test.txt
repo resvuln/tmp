@@ -1,0 +1,1 @@
+{"private_key_id": "9876543210abcdef1234567890abcdef12345678", "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDGtJTUt9Us8cKB\nxQQw0QmGmvEvqPaTpQhLz8cKBxQQw0QmGmvEvqPaTpQhLz8\n-----END PRIVATE KEY-----\n", "client_email": "data-processor@analytics-hub.iam.gserviceaccount.com"}
