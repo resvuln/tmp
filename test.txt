@@ -1,0 +1,1 @@
+Endpoint=sb://contoso-messaging.servicebus.windows.net/;SharedAccessKeyName=SendOnlyPolicy;SharedAccessKey=AbCdEfGhIjKlMnOpQrStUvWxYz0123456789+/AbCdEfGhIjKlMnOpQrStUvWxYz01==
