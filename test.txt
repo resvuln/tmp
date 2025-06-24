@@ -1,0 +1,1 @@
+{"type": "service_account", "project_id": "web-app-production", "private_key_id": "fedcba0987654321abcdef1234567890abcdef12", "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7VJTUt9Us8cKB\n-----END PRIVATE KEY-----\n", "client_email": "api-service@web-app-production.iam.gserviceaccount.com", "client_id": "987654321098765432109"}
