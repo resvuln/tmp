@@ -1,0 +1,1 @@
+localstack_apikey:	= =	:=os1JWWOavoj49QamxkXtiInyTnnY2x7FQ
