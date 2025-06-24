@@ -1,0 +1,1 @@
+clojars_deploy_token		wlsKhHfF5j0H3MJ1lGkgm1JPWn06NIfXHmHwLTb7ewQEj2KpZhbCuAaQgUi3Sgq
