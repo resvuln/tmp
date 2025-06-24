@@ -1,0 +1,1 @@
+{ "type": "service_account", "project_id": "web-scraper-prod", "private_key_id": "0123456789abcdef0123456789abcdef01234567", "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDM4k8P\n-----END PRIVATE KEY-----\n", "client_email": "scraper-service@web-scraper-prod.iam.gserviceaccount.com", "client_id": "246813579024681357902" }
