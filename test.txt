@@ -1,0 +1,1 @@
+Endpoint=sb://uH8.servicebus.windows.net/;SharedAccessKeyName=0O52ZeSJb4ywWSFbAeWvl6v27EmFRdXmGBleiACM8Q;SharedAccessKey=d/wdFa4yvhL7M49k3uxtCtGoJhQoNRVdZ+wwa8hCUHfQZtG7EMo0qy/QTD6wMx+rl4VoZ29INS/mx2Ks12zFqg================================================
