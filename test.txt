@@ -1,0 +1,1 @@
+localstack-api_key :	==			t8Q1D0ToZzIcdsej7RYwUbd8JgRjnl1
