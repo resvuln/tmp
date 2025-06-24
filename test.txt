@@ -1,0 +1,1 @@
+sb://event-processing.servicebus.windows.net/customer-events?SharedAccessKeyName=ListenPolicy&SharedAccessKey=mN7oP8qR9sT0uV1wX2yZ3+/456789ABCDEFGHabcdefgh==
