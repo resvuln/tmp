@@ -1,0 +1,1 @@
+pinterest_refresh_token="AbC123XyZ789_refresh_token_example_here_12345"
