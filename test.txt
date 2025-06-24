@@ -1,0 +1,1 @@
+Endpoint=sb://ipPR7kCow5RoL.servicebus.windows.net/;SharedAccessKeyName=SIs5IjULkbu1Mt5OdW96MILsDhvtXTTv2zIiUa5XYL4gXoOZlv14xfeQwcEZHlYKLqr7EurGb3mqUuMFVUjK3v9gyO2WBfbJ0I1ZqRzld2;SharedAccessKey=xbpvluzP22C5Y3RRor6Gnouro91F26VprONZuTeuzGPO9OLFMWLv5Aamlpw==
