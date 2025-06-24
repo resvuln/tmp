@@ -1,0 +1,1 @@
+Endpoint=sb://production-bus.servicebus.windows.net/;SharedAccessKeyName=SendPolicy;SharedAccessKey=bXlzZWNyZXRrZXlmb3JhenVyZXNlcnZpY2VidXNjb25uZWN0aW9uc3RyaW5nZXhhbXBsZWZvcnRlc3Rpbmc=
