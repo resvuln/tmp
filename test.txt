@@ -1,0 +1,1 @@
+Endpoint=sb://messaging-hub.servicebus.windows.net/;SharedAccessKeyName=SendOnlyPolicy;SharedAccessKey=xyz9876543210ABCDEFGHijklmnopQRSTUVWXYZ+/abcdefgh1234==
