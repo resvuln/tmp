@@ -1,0 +1,1 @@
+Endpoint=sb://dev-messaging.servicebus.windows.net/;SharedAccessKeyName=DefaultFullSharedAccessSignature;SharedAccessKey=Zm9vYmFyYmF6cXV4dGVzdGluZ2tleXZhbHVlcmFuZG9tYmFzZTY0ZW5jb2RlZA==
