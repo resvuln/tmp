@@ -1,0 +1,1 @@
+arn:aws:cognito-idp:eu-west-1:987654321098:userpool/eu-west-1_XyZaBcDeF
