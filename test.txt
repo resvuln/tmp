@@ -1,0 +1,1 @@
+LOCALSTACK_API_KEY=:::	  :	VSdaUD8gcAbmW9hLkohQgHRdzjcVzA6PNUZ7N9TS1r
