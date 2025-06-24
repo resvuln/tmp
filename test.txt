@@ -1,0 +1,1 @@
+HostName=1FpRdNaiii.azure-devices.net;DeviceId=uqGxESO5UbKKQCIFjSY3;SharedAccessKey=ZRxfpbouVd61r6srPz6Xg+mf3ggCwGbmw1/hKRnlWbj
