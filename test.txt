@@ -1,0 +1,1 @@
+Endpoint=sb://hzCPasaLIRN-mD7HmQoSRFR-YAEHLQtbFJ12P4Z5-wpDy6YPHSHRmXhIDPfK5YW5MRc1VxB8uLB6ORkmrRJ.servicebus.windows.net/;SharedAccessKeyName=eexojQ;SharedAccessKey=D4ttfg89yOrQ4LLFodP4MP9WJRk7YoAUtLA2jTAFEN1qBYDR1fSQ78kGqaZJUbHXuAW1TUPrMSCkrKVblDRLXEDH==
