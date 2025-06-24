@@ -1,0 +1,1 @@
+SharedAccessKey=dGhpc2lzYW5vdGhlcnRlc3RrZXlmb3JhenVyZXNlcnZpY2U=;EntityPath=notifications-topic
