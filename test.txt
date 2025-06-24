@@ -1,0 +1,1 @@
+proctorio_secret_key = A7B9C3D1E5F2G8H4I6J0K9L3M7N1O5P8
