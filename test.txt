@@ -1,0 +1,1 @@
+{"type":"service_account","project_id":"dev-environment-789","private_key_id":"1234567890abcdef1234567890abcdef12345678","private_key":"-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCxyz123\n-----END PRIVATE KEY-----\n","client_email":"deploy-service@dev-environment-789.iam.gserviceaccount.com","client_id":"123456789012345678901"}
