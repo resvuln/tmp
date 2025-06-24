@@ -1,0 +1,1 @@
+SharedAccessKey=bXlTZWNyZXRLZXlGb3JBZFN1cmVCdXNTZXJ2aWNlVGVzdDEyMzQ1Njc4OTA=;EntityPath=myqueue
