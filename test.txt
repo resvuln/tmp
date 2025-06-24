@@ -1,0 +1,1 @@
+NewRelic-InsightsQuery-Key::= :||| 	=L6ZZKOj2YWbNQc7qawBPeB8IjDos5y2HlqN26y0mmjtEcYV8BdJG1lD2OW6ZO3
