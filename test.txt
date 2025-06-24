@@ -1,0 +1,1 @@
+connectionString=HostName=test-dps.azure-devices-provisioning.net;SharedAccessKeyName=enrollment;SharedAccessKey=bXlzZWNyZXRrZXkxMjM0NTY3ODkwYWJjZGVmZ2hpams1Njc4OTA=
