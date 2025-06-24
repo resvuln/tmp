@@ -1,0 +1,1 @@
+azure.iot.key=VGhpc0lzQVRlc3RLZXlGb3JBenVyZUlvVEh1YkNvbm5lY3Rpb25TdHJpbmdUZXN0aW5nT25seQ==
