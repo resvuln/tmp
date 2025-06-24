@@ -1,0 +1,1 @@
+HostName=J6u53jpd0LjhVW9ZHuBPmGQETVixARp-XxBDSki89-qTlM2.azure-devices.net;DeviceId=bEyobeFHLdX5u9pY5gM2Y-VqoJ6HvwlCcpg8UYuTXqglwlD1wQ-UVpMUnpJxchJV2VA2_tOumk0K3xjUGjgTkWH5te;SharedAccessKey=M6BAtGsWgpoH3RbNXf9Pcnp2xEqunht0OHBbLQkIcFKWHK0y+3yzQCGDX4z+pHZN
