@@ -1,0 +1,1 @@
+RegistrationId=mydevice&SharedAccessKey=YWJjZGVmZ2hpamtsbW5vcHFyc3R1dnd4eXoxMjM0NTY=
