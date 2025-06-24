@@ -1,0 +1,1 @@
+Endpoint=sb://NIRAY.servicebus.windows.net/;SharedAccessKeyName=B5OXSprt5qZVVSW4bEyvDZ3DPEuzFbVGsL7YcxiSTAasPmu8VvFa61GYKN6bwoteHsHDJEiWVDMji83nzvokGNuRVwIMwRIZwn3y3eE592VAkIG9hgAYZc4cE0RrPkVs9;SharedAccessKey=QkeIP1Cwh8ItODAiVWa54hfXPtogeyqoO647snUk3WBH==
