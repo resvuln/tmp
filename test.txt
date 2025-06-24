@@ -1,0 +1,1 @@
+sb://test-namespace.servicebus.windows.net/mytopic?SharedAccessKey=dGhpc0lzQVRlc3RLZXlGb3JBenVyZVNlcnZpY2VCdXNFeGFtcGxl
