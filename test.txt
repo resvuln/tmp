@@ -1,0 +1,1 @@
+HostName=production-hub.azure-devices.net;DeviceId=sensor-device-42;SharedAccessKey=dGhpc2lzYXZlcnlsb25nc2VjcmV0a2V5Zm9yYXp1cmVpb3RodWI=
