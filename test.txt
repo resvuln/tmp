@@ -1,0 +1,1 @@
+SharedAccessKey=dGhpc2lzYXNlY3JldGtleWZvcmF6dXJlc2VydmljZWJ1c3Rlc3RpbmcxMjM0NTY3ODkw;EntityPath=notification-hub
