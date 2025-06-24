@@ -1,0 +1,1 @@
+mergify.app.key=bd6aF212b127bf4C95bbF8Afa6800FAdf4E4AEDB
