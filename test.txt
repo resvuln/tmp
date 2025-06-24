@@ -1,0 +1,1 @@
+localstack_apikey  	vC9RBAKDKpbDuZGPA0ODdod88H8b1GW7y9GHF1
