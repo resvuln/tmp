@@ -1,0 +1,1 @@
+HostName=tny4gLHFynTIIatQR36LO9LDysOnH0jtDK21.azure-devices.net;SharedAccessKeyName=amfHxfpRSKThb6ck;SharedAccessKey=38gJZvHrNnEAfsbdEBrZoWHKMn7tN4AM+wfd3SZMzhdPLgs
