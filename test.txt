@@ -1,0 +1,1 @@
+NewRelic-Insights-Query-Key		=	::5BZ1pyA2uG0lfrp1WjNzgB26pVvOytm8VKpU
