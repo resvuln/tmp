@@ -1,0 +1,1 @@
+sb://test-relay-ns.servicebus.windows.net/;SharedAccessKeyName=DefaultSender;SharedAccessKey=D0cV9bX2zM4hL7sA5k8jmK9pL2xQ7vR4wT6yU1oI3eN5gF8aD0cV9bX2zM4hL7sA5k8j
