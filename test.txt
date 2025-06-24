@@ -1,0 +1,1 @@
+azure.iot.device.key = QWxsWW91ckJhc2VBcmVCZWxvbmdUb1VzU2VjcmV0S2V5MTIz
