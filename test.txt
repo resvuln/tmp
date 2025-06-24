@@ -1,0 +1,1 @@
+aws_session_token	:			::=	= :		:WLpDsUIHLvqDmXi0e5KbPWp2oJc0lHOY/VvZUry2Eqtb7VsPr5kqLa72Wx+d/5VO5QsaBrFovEpXVtbIp9kv/Q6Hr0g/Cqp/js07edI/JiQfyaprRqWO5wYrGwLfH7FOstBTJ/dDo9yUN3igpSRLJp414A7ejQlds9W+m05jcyMRg8nKh2QIgNiGIW7nWMCoCG1xNggn+abKzymWcXoTL==
