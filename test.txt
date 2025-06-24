@@ -1,0 +1,1 @@
+{"type":"service_account","project_id":"my-gcp-project","private_key_id":"abc123def456789012345678901234567890abcd","private_key":"-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC8Q7HgL\n-----END PRIVATE KEY-----\n","client_email":"test-service@my-gcp-project.iam.gserviceaccount.com","client_id":"123456789012345678901"}
