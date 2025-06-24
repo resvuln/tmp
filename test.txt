@@ -1,0 +1,1 @@
+LOCALSTACK_API_KEY 	9b577e98d957ca0ca0ed78caaa2c8c96
