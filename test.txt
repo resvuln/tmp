@@ -1,0 +1,1 @@
+EventHubConnectionString="Endpoint=sb://production-hub.servicebus.windows.net/;SharedAccessKeyName=SendPolicy;SharedAccessKey=YXp1cmVldmVudGh1YmtleWZvcmFwcGxpY2F0aW9uYWNjZXNzY29udHJvbGFuZGF1dGhlbnRpY2F0aW9u"
