@@ -1,0 +1,1 @@
+SharedAccessKey=K2L3m4N5o6P7q8R9s0T1u2V3w4X5y6Z7+/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef==;EntityPath=orders-queue
