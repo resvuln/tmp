@@ -1,0 +1,1 @@
+HostName=jimqOKvrZ.azure-devices.net;SharedAccessKeyName=n0hOneW58HXGg;SharedAccessKey=tscz+zoImppJG8iENa75q/Iuvfui9JdY4k76PwG4e14LbR7IU8/N7duUI6vBLY5xdGlzw78OUGF==
