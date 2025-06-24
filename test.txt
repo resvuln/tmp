@@ -1,0 +1,1 @@
+clojars_deploy_token   df4qLPvf1ZRHyRhcCOX3F7Vwgb9YSpcEPPK7mSy2GM9b
