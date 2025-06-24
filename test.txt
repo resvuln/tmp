@@ -1,0 +1,1 @@
+Endpoint=sb://myeventhub.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=dGVzdGtleWZvcmF6dXJlZXZlbnRodWJzZXJ2aWNlYWNjZXNza2V5ZXhhbXBsZWRhdGE1MTIzNDU2Nzg5YWJjZGVmZ2hpams=
