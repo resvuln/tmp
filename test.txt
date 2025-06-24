@@ -1,0 +1,1 @@
+Endpoint=sb://XjuyCLVJyceTO0vcUIg8oamzYVEVf8wSyiG0jz57TTKGFiZTr2PySi5LkETMMXSd7OWAuAMihAkSj8VAt9ijC60B.servicebus.windows.net/;SharedAccessKeyName=Egum;SharedAccessKey=WYZET/HPJ1Ry452LrOVr0pdT5znykYtiC2Qog6mxjsiQ7sr9MEvosc05PwsiNuonYfxcZt0Er2DrZrKkJMcYXDe=
