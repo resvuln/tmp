@@ -1,0 +1,1 @@
+localstack_apikey			`	:	sa686H1zmbnnhEgbudWanXH1TsZj8M7M
