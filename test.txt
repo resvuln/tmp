@@ -1,0 +1,1 @@
+HostName=4lua3v8aaa.azure-devices.net;DeviceId=opixDS7F5GpRYqBIdABFkofHC4JW47-kYcCwONCicNXA7dmcSEKNSh3b-efQAbtOG8cpiMS48qkQPg9aXjkHlq2W85YSvFddeDpTXN6zsswgqIxyTjC6sDG-3Fq9lcNvuIcUbKd;SharedAccessKey=7ZcTm2HrxajcHJitOaOEfgyBPY+LEc/hDN0UMERZJycndktsOL5+bj8==
