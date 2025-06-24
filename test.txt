@@ -1,0 +1,1 @@
+HostName=doLIahawVRr2KGLjYre6.azure-devices.net;DeviceId=8XKbGeXEe8glFj8uZmTLR446JDN2oX6Z8Y7lVXMjRNs7SXbsQSNPdk9GUwtUJV4xtiV8SbEwb7ssqD1yIQlG3lk;SharedAccessKey=cr+2/E0KXcL3Gtx0eHslVr5ARVKmz3l4z0Xv6iN0bQIqau68y6ramaGq0xGvHIJDWzSMIjP0oPBWW2uSlh+bH+uuJdzu==
