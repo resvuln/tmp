@@ -1,0 +1,1 @@
+SharedAccessKey=QWxhZGRpbjpvcGVuIHNlc2FtZTEyMzQ1Njc4OTBhYmNkZWZnaGlqa2w=;EntityPath=event-stream-topic
