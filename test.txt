@@ -1,0 +1,7 @@
+{
+  "type": "service_account",
+  "project_id": "webapp-prod-456",
+  "private_key_id": "fedcba9876543210abcdef1234567890abcdef12",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDGtL5mX8pN2qW\nR9YzKjH7nF5sH9wE6vO8rQ2qT0xL6M9nN5cC7dG1hI3jK8lM4nO9pS6tU0vX\n-----END PRIVATE KEY-----\n",
+  "client_email": "webapp@webapp-prod-456.iam.gserviceaccount.com"
+}
