@@ -1,0 +1,1 @@
+HostName=y69.azure-devices.net;DeviceId=ijFsuc48JCRMnfeha5w8mVXUCbWPcoyhbAmr0exWjamA8jIiW51y5dnZuGS4TSdJyyrchtMptRiywXd7EwVc9Lq27GGSQPu31GF-yNRx9r404r-S3IXhHUxh-twGnR2QYgNo3uKLsBspd7cHWCV-w38e;SharedAccessKey=TI+ef5DEUWEcRCXiFPSsGi+iPrpz77lqVof6BP07+M+KZ=
