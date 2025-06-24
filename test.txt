@@ -1,0 +1,1 @@
+Endpoint=sb://94Kg.servicebus.windows.net/;SharedAccessKeyName=XbTtoaGO3fWDOKjVkiB9JgK2uAycJYpevc3t2iisRrdD7NZIaCcNic2Bbn6bimvGKIzIMNUy3WMEv7zlSeJLaLO9WtDG0YMR4Z53MvK;SharedAccessKey=uoiVztRbWgwmCWAPrQsG2nvVvzLeQ5GdXorcVYEsx5P1umZ9oUanxZdI970/0EfQssG/DJHdu
