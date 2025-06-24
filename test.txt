@@ -1,0 +1,1 @@
+SharedAccessKeyName=OIKUZa_SbIAH4;SharedAccessKey=1CcYv8HgcFT9hgxllUggzm1VjTMZaBjGmHAtmPT2aMK;Endpoint=sb://1kPCiHx2m.servicebus.windows.net/
