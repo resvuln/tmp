@@ -1,0 +1,1 @@
+SharedAccessKey=QWxhZGRpbjpvcGVuIHNlc2FtZWJhc2U2NGVuY29kZWRzdHJpbmc=;EntityPath=payment-events
