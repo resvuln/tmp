@@ -1,0 +1,1 @@
+sb://enterprise-hub.servicebus.windows.net/payment-events/messages?timeout=60&api-version=2014-01&SharedAccessSignature=sr=https%3A%2F%2Fenterprise-hub.servicebus.windows.net%2Fpayment-events&sig=YWJjZGVmZ2hpamtsbW5vcA%3D%3D&se=1234567890&skn=ListenPolicy
