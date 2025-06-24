@@ -1,0 +1,1 @@
+amzn1.apps.oauth.client.9876543210abcdef1234567890fedcba
