@@ -1,0 +1,1 @@
+AccountEndpoint=https://l28xekhml-000dsvhh9hyshf7mw4rivz6bhl1khjaiom.documents.azure.com:4791839260031858064698439041419392922545256242127172359292639/;AccountKey=LpZ2Ob2OgD645/cs4KtJJH7EcQ7bktemcqEjyHLp+k1x6CxpWJdCW1XqSHao/WBGR+INdDeLGceFydRmSFKfLNV0==;
