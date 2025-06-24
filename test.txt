@@ -1,0 +1,1 @@
+SharedAccessKeyName=ListenPolicy;SharedAccessKey=cGFzc3dvcmQxMjM0NTY3ODkwYWJjZGVmZ2hpams=;Endpoint=sb://data-pipeline.servicebus.windows.net/
