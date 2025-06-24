@@ -1,0 +1,1 @@
+storage_account_key: 'Zm9vYmFyYmF6cXV4dGhpcmRmb3VydGVlbnRoaWZpc2lzdGVzdGZvdXJ0ZWVudGhzZXZlbnRlZW50aA=='
