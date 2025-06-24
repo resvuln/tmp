@@ -1,0 +1,1 @@
+Endpoint=sb://li-UFkmTGRG5Oa4KnNg3QgJ5tn.servicebus.windows.net/;SharedAccessKeyName=JyQ5;SharedAccessKey=SRa+X1Q7YDNz91Dux7SjHxiXcNS0l8ddPTKusRq8O10rfLkUuU2IyYnK8G============================================================================================
