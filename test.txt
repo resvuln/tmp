@@ -1,0 +1,1 @@
+SharedAccessSignature sr=https%3A%2F%2Fmyapim.management.azure-api.net%2F&sig=abcdef1234567890abcdef1234567890abcdef12&se=1234567890&skn=master
