@@ -1,0 +1,1 @@
+Endpoint=sb://0xmln3-hw-szxixghrkg4.servicebus.windows.net/;SharedAccessKeyName=yephgz;SharedAccessKey=02Vw2nPBJw6ZLUiYNugOadGvQVpjJw66hYmLLvom6zuxDl4t
