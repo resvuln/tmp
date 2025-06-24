@@ -1,0 +1,1 @@
+HostName=production-iot.azure-devices.net;DeviceId=device_12345;SharedAccessKey=cHJvZHVjdGlvbmtleWZvcmF6dXJlaW90aHViZGV2aWNlYXV0aGVudGljYXRpb24=
