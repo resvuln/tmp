@@ -1,0 +1,1 @@
+SharedAccessKey=B9mK2pN5qR8sT1vY4zA7cE0fH3iL6oM9rU2wX5bG8hJ1kN4pQ7tV0yZ3eH6iL9nM2qS5uY8aD1fG4j;EntityPath=telemetry-events
