@@ -1,0 +1,1 @@
+azure_sql_password="Str0ngP@ssw0rd#456"
