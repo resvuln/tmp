@@ -1,0 +1,1 @@
+Endpoint=sb://company-relay.servicebus.windows.net/;SharedAccessKeyName=SendListen;SharedAccessKey=R4wT6yU1oI3eN5gF8aD0cV9bX2zM4hL7sA5k8jmK9pL2xQ7vR4wT6yU1oI3eN5gF8a=;EntityPath=webapp-tunnel
