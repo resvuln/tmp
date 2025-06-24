@@ -1,0 +1,1 @@
+HostName=myiothub.azure-devices.net;DeviceId=device001;SharedAccessKey=pQ3sR6tU9vW2xY5zA8bB1cD4eF7gG0hH3iI6jJ9kK2lL5mM8nN1oO4pP7qQ0rR==
