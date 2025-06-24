@@ -1,0 +1,1 @@
+Endpoint=sb://test-eventhub-ns.servicebus.windows.net/;SharedAccessKeyName=ListenOnly;SharedAccessKey=c2FtcGxlYXp1cmVldmVudGh1YmNvbm5lY3Rpb25zdHJpbmdmb3J0ZXN0aW5nYW5kZGV2ZWxvcG1lbnRwdXJwb3Nlcw==
