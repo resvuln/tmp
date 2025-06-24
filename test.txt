@@ -1,0 +1,1 @@
+pinterest-refresh-token: 'mnOpQrSt9876543210AbCdEfGhIjKlMnOpQrStUvWxYz1234567890Abc'
