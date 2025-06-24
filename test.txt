@@ -1,0 +1,1 @@
+myregistry.azurecr.io:K8x9P2mQ7vR3nL6wE4tY8uI5oA1sD0fG9hJ2cV6bN3zM7kX4pW5eT1qR8yU0iO9p==
