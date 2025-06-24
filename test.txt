@@ -1,0 +1,1 @@
+sb://test-namespace.servicebus.windows.net/;SharedAccessKeyName=DefaultFullSharedAccessSignature;SharedAccessKey=poiuYTREW567890+/lkjhGFDS234567+/mnbvCXZA890123+/qwertyuiASDF==
