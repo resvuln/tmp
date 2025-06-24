@@ -1,0 +1,1 @@
+{"type":"service_account","project_id":"ml-training-env","private_key_id":"abcdef1234567890abcdef1234567890abcdef12","client_email":"ml-worker@ml-training-env.iam.gserviceaccount.com","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://oauth2.googleapis.com/token"}
