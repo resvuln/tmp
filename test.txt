@@ -1,0 +1,1 @@
+DeviceConnectionString=HostName=test-iot.azure-devices.net;DeviceId=sensor_device_01;SharedAccessKey=YWJjZGVmZ2hpamtsbW5vcHFyc3R1dnd4eXowMTIzNDU2Nzg5
