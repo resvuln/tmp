@@ -1,0 +1,1 @@
+primary_connection_string='c*9:;|LA,!uu{?tl>0/FkAk;YfSTZY>Xh4M]oZ`_^R`)#}aRl4bun;;2#ndl>Fw<%hz-}%Gkf1,s)?[6O3%CDG}\]xBV\?ae-w\\	*lOk<fDML3\SharedAccessKey=dWT7z7fc+JvIk4IXPOKm========'
