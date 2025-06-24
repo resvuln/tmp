@@ -1,0 +1,1 @@
+SharedAccessKeyName=Ftp;SharedAccessKey=09fkGnFQJ2QE2L/nxOBl4ikivpKqISbl6nIE7DW9qV/SV/W84ROZHRVZbYh9Hmddg==;Endpoint=sb://Fuo02LadcKXKDEojkbup6fHLPeLciJp1lM6TZvZaSECLkeUXF2yQqhmM9nzQTA7a9tUVH3oh7uHh2B0TIetXvXx5ODrBsWLFEIm2Aj2gfB-L8.servicebus.windows.net/
