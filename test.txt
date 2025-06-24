@@ -1,0 +1,1 @@
+Endpoint=sb://enterprise-hub.servicebus.windows.net/;SharedAccessKeyName=Listen;SharedAccessKey=ZXhhbXBsZWtleWZvcmF6dXJlc2VydmljZWJ1c2FwaWFjY2VzczEyMzQ1Njc4OTBhYmNkZWZnaGlqa2xtbm9wcXI=
