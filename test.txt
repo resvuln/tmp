@@ -1,0 +1,1 @@
+access_token=PINTEREST123456789abcdefghijklmnopqrstuvwxyz0123456789
