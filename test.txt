@@ -1,0 +1,1 @@
+https://ims-na1.adobelogin.com/ims/exchange/jwt adobe_client_secret: 4FS-bbbEnJaXB4Cg6aeHzUBWebUZxBciaZ_O
